@@ -25,4 +25,4 @@ Setting up python environment in macOS using Homebrew, Pyenv, and Pipenv [Link](
 
 ## Access the Application
 
-- Open your web browser and navigate to `http://0.0.0.1:8050/`
+- Open your web browser and navigate to `http://0.0.0.0:8050/`
